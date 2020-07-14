@@ -36,6 +36,14 @@ a {
   text-align: center;
 }
 
+.carousel{
+  margin-top: 20px;
+}
+
+.col-sm-12 h2{
+  margin-top: 20px;
+}
+
 footer{
   left: 0;
   bottom: 0;
